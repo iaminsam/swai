@@ -1,3 +1,8 @@
+#model_train.ipynb
 https://drive.google.com/file/d/13MwdjyeIE-_YEn2PQts13TERhxfqq3hI/view?usp=share_link
 
+# arPtC.py
 https://drive.google.com/file/d/1JPPz57TEtyUWl2QBH9OYIWjdA516-BDA/view?usp=share_link
+
+# image data
+https://drive.google.com/file/d/14mn5h5BCm9ky1MzgUYu6iTyWmj2SohbW/view?usp=sharing
